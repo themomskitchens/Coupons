@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Corporate Bites Loyalty Program</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #ff6b35;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 600px;
+      margin: 20px auto;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #333;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      padding: 10px 0;
+      border-bottom: 1px solid #eee;
+    }
+    .cta {
+      background: #ff6b35;
+      color: white;
+      padding: 10px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Corporate Bites Loyalty Program</h1>
+  </header>
+  <main>
+    <h2>Earn Rewards Every Time You Order!</h2>
+    <ul>
+      <li>✅ Earn 1 point for every ₹100 spent.</li>
+      <li>✅ Redeem 10 points for ₹100 off your next order.</li>
+      <li>✅ Exclusive offers and surprises for loyal customers!</li>
+    </ul>
+    <p>Sign up now and start earning rewards!</p>
+    <a class="cta" href="#">Join Now</a>
+  </main>
+</body>
+</html>
